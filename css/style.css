@@ -89,3 +89,31 @@ h3.initial{
     top:2%;
 }
 }
+div.postheading.text-center{
+  margin-top:20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bolder;
+  letter-spacing:0.001rem;
+}
+
+button.btn.btn-dark{
+  width:50%;
+  padding:9px;
+  border:1px solid black;
+}
+h1.postpostheading{
+  font-family: 'Montserrat', sans-serif;
+  
+ 
+}
+div.postpostcontent{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:900;
+
+}
+button.btn.btn-dark:hover{
+  background-color:grey;
+}
+ hr.w-50.mx-auto{
+   margin-bottom:27px;
+ }
