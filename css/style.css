@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
 
 body{
@@ -8,7 +7,7 @@ padding:0px;
 box-sizing:border-box;
 }
 .nav-item{
-    font-family: 'Montserrat', sans-serif;
+    
     margin-right:20px;
     font-size:18px;
    font-weight: 1000;
@@ -50,11 +49,6 @@ h3.initial{
   
 }
 
-.post-heading{
-  margin-top:50px;
-  font-family: 'Pathway Gothic One', sans-serif;
-  font-weight:bold;
-}
 
 @media only screen and (min-width:845px)and (max-width:991px){
   div.heading-content.text-center{
@@ -117,3 +111,16 @@ button.btn.btn-dark:hover{
  hr.w-50.mx-auto{
    margin-bottom:27px;
  }
+ 
+ p.text-center{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:900;
+ }
+ 
+ div.col.col-lg-3.id:hover{
+cursor: pointer;
+}
+
+div.row.stars{
+  padding-left: 700px;
+}
